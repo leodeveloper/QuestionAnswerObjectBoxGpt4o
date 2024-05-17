@@ -1,7 +1,7 @@
 # QuestionAnswerObjectBoxGpt4o
 QuestionAnswer application using  ObjectBox vector database, Gpt4o and langchain
 
-# RAG QuestionAnswer Application with ObjectBox, GPT-4, and LangChain
+# RAG QuestionAnswer Application with ObjectBox, GPT-4, groq, llama3, and LangChain
 
 ## Table of Contents
 
