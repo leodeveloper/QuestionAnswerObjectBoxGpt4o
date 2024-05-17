@@ -1,0 +1,8 @@
+python-dotenv
+langchain_community
+langchain_objectbox
+langchain_openai 
+langchain_core
+langchain
+bs4
+langchainhub
