@@ -1,5 +1,7 @@
 # QuestionAnswerObjectBoxGpt4o
-QuestionAnswer application using  ObjectBox vector database, Gpt4o and langchain
+Question Answer application using  ObjectBox vector database, Gpt4o and langchain
+
+![Chat Bot Image](https://github.com/leodeveloper/QuestionAnswerObjectBoxGpt4o/blob/main/llama3%20objectbox%20vectordb.png)
 
 # RAG QuestionAnswer Application with ObjectBox, GPT-4, groq, llama3, and LangChain
 
